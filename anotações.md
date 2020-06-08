@@ -21,3 +21,13 @@
 // Formas de estruturação de código:
 // Service Pattern
 // Repository Pattern (Data Mapper)
+
+// Deploy
+// Backend
+    // Heroku (teste)
+    // Digital Ocean (aplicação pequena / produção)
+    // AWS / Google Cloud / Microsoft Azure (aplicação grande / produção)
+// Front-end
+    // Netlify / Vercel (teste / aplicação pequena)
+    // Amazon S3 / Google Cloud Storage (aplicação pequena / produção)
+
